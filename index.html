@@ -193,7 +193,12 @@
             <input type="email" placeholder="Enter Email" />
             <input type="text" placeholder="Enter Phone Number" />
             <textarea rows="5" placeholder="Enter Messages"></textarea>
-            <a class="button_3" href="">Send</a>
+            <a class="button_3" onclick="audio.play();">Send</a>
+            <script type="text/javascript">
+              const audio = new Audio();
+              audio.src = "images/claps-44774.mp3";
+
+            </script>
           </form>
         </div>
 
