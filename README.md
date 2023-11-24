@@ -14,5 +14,7 @@ The website project aligns with the broader trends in the fitness industry in As
 This project's success will not only benefit "FitLife" but also serve as a reference for entrepreneurs and investors looking to enter the fitness and wellness sector in Astana. It reflects the city's modern outlook, emphasizing health and fitness as integral components of its identity and lifestyle.As "FitLife" continues to evolve and respond to the changing needs of the community, it will remain an important contributor to the fitness industry in Astana, promoting a healthier lifestyle and contributing to the well-being of the city's residents.
 
 Presentation : [WEB presentation.pdf](https://github.com/kair7sky/Final-Web-project/files/13456579/WEB.presentation.pdf)
+
 WireFrame: [FitLife WireFrame.pdf](https://github.com/kair7sky/Final-Web-project/files/13456598/FitLife.WireFrame.pdf)
+
 FitLife pages: https://damirbek05.github.io/FitLife-Final/
