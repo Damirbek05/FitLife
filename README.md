@@ -1,5 +1,5 @@
 # Fitlife
-# SE-2221 Kairkhanov Abylaikhan, Ospanbek Damir
+# Ospanbek Damir
 Final project
 
 Our aim with FitLife is to provide individuals with a holistic and user-friendly web-site application fitness that empowers them to take control of their physical well-being, no matter where they are or how busy their schedules might be. 
