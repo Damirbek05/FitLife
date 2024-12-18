@@ -17,4 +17,4 @@ Presentation : [WEB presentation.pdf](https://github.com/kair7sky/Final-Web-proj
 
 WireFrame: [FitLife WireFrame.pdf](https://github.com/kair7sky/Final-Web-project/files/13456598/FitLife.WireFrame.pdf)
 
-You can see the full site here: https://damirbek05.github.io/FitLife-Final/
+You can see the full site here: [https://damirbek05.github.io/FitLife-Final/](https://damirbek05.github.io/FitLife/)
